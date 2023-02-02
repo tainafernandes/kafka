@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf18e579-9cbc-45d0-8057-28b33313cbae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/tainafernandes/paymentservice/config/KafkaAdminConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/tainafernandes/paymentservice/config/JsonProducerConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/tainafernandes/paymentservice/resource/impl/PaymentResourceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/tainafernandes/paymentservice/resource/impl/PaymentResourceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/tainafernandes/paymentservice/service/impl/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/tainafernandes/paymentservice/service/impl/PaymentServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
