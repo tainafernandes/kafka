@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf18e579-9cbc-45d0-8057-28b33313cbae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../json-consumer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../json-consumer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../json-consumer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../json-consumer/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../json-consumer/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../json-consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../json-consumer/src/main/java/io/github/tainafernandes/jsonconsumer/JsonConsumerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../json-consumer/src/main/java/io/github/tainafernandes/jsonconsumer/config/JsonConsumerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../json-consumer/src/main/java/io/github/tainafernandes/jsonconsumer/listener/JsonListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../json-consumer/src/main/java/io/github/tainafernandes/jsonconsumer/model/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../json-consumer/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../json-consumer/src/test/java/io/github/tainafernandes/jsonconsumer/JsonConsumerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json-consumer/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../json-consumer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../json-consumer/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
